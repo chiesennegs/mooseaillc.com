@@ -18,6 +18,7 @@ The site is a static, dependency-free page. Pushing a commit to `main` triggers 
 | `styles.css` | Site layout, color tokens, responsive rules, project-card styling. |
 | `assets/mooseai-logo.png` | Current transparent MooseAI brand mark. |
 | `assets/openlifespan-mark.png` | OpenLifeSpan project mark used on its card. |
+| `assets/android-powertoys-mark.svg` | Circular Android PowerToys settings icon used on its project card. |
 | `CNAME` | Custom domain declaration: `mooseaillc.com`. Keep this file at the repository root. |
 | `.nojekyll` | Prevents GitHub Pages from processing the site with Jekyll. Keep it unless the hosting approach intentionally changes. |
 
